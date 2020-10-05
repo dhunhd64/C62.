@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Work</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section id="app">
+        <h1>Apps</h1>
+        <div class="line"></div>
+        <iframe width="400" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/CL5zk5LZbEB86LfyNAw3afeMEFSaKNp83T1lSusrKeU/embed"></iframe>
+        <iframe width="400" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/QGIAsBhtBiA7LhIUWYaTvr9eT-q_AxH5HEHsSIPX5qU/embed"></iframe>
+        <iframe width="352" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/dw5nxW6kvpVtf0r3wTzxw5GIBUTq7Lbto5kwqJ-iDZg/embed"></iframe>
+    </section>
+    
+    <section id="games">
+        <h1>Games</h1>
+        <div class="line"></div>
+        <a href="https://studio.code.org/projects/playlab/kxOsys-4FsYRniBMMyy0NjO4Icjx3RQQoblU8PWB3DU" target="_blank"><img src="G1.png"></a>
+        <a href="https://studio.code.org/projects/spritelab/O292HUwz4qI6fFU9AkqH8rXjQd0vT61Uk24JF-4VV0w" target="_blank"><img src="G2.png"></a>
+        <a href="https://studio.code.org/projects/playlab/LkZfxeDB5JmjRfnpaeV-KRwZNJ3wMLRSxJzs0Jry5ew" target="_blank"><img src="G3.png"></a>
+    </section>
+    
+    <section id="chatbot">
+        <h1>Chat Bot</h1>
+        <div class="line"></div>
+        <iframe height="430" width="350" src="https://bot.dialogflow.com/c420e4e5-0909-4114-85a8-4901316f426c"></iframe>
+        <iframe height="430" width="350" src="https://bot.dialogflow.com/891b4689-648a-4f80-af5c-976b1d00c25d"></iframe>
+        <iframe height="430" width="350" src="https://bot.dialogflow.com/639c1bcb-a9b9-4377-acfe-91ac7f85d608"></iframe>
+    </section>
+    
+    <section id="thunkable">
+        <h1>Thunkable</h1>
+        <div class="line"></div>
+    </section>
+    
+</body>
+</html>
